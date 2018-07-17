@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 안녕, 세계!
+title: Example content
 description: >
-  이것은 샘플 포스트입니다. Github Pages는 처음이라서요. 참 간편하네요.
+  This is a normal paragraph following a header.
+  GitHub is a code hosting platform for version control and collaboration.
+  It lets you and others work together on projects from anywhere.
 tags: [hydejack]
 ---
-
-한글이 잘 표시되나요?
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
