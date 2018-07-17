@@ -19,7 +19,7 @@ baseurl:               ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  ko
+lang:                  kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Esot3riA's blog
@@ -33,11 +33,10 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  여기는 Esot3riA의 데이터 과학 블로그입니다.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Kaggle]
 
 # Used by jekyll-seo-tag...
 logo:                  /assets/icons/icon.png
@@ -51,7 +50,7 @@ author:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2018. All rights reserved.
+copyright:             © 2018 Esot3riA All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -225,11 +224,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name: Esot3riA
+  links:
+    - https://github.com/Esot3riA
+    - https://www.reddit.com/Esot3riA
 
 
 # Other Plugins
