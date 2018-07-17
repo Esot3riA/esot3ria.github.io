@@ -224,11 +224,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-social:
-  name: Esot3riA
-  links:
-    - https://github.com/Esot3riA
-    - https://www.reddit.com/Esot3riA
+# social:
+# name: Esot3riA
+# links:
+#   - https://github.com/Esot3riA
+#   - https://www.reddit.com/Esot3riA
 
 
 # Other Plugins
