@@ -1,10 +1,9 @@
 ---
 layout: post
-# title: temp post
-title: 임시 제목
+title: title example
 description: >
   This is temp post
-tags: [hydejack]
+tags: [Kaggle]
 ---
 
 english?
