@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Jekyll 기반 무언가?
+title: temp post
 description: >
-  This is 한글
+  This is temp post
 tags: [hydejack]
 ---
 
-한글이 지원되나요?
+english?
