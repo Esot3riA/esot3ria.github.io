@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 안녕, 세계!
-category: Kaggle
+title: 지킬(jekyll) 로 포스팅하기
 description: >
-  이건 설명입니다.
-  설명이고요.
-  설명이네요.
-tags: [kaggle]
+  This is a normal paragraph following a header.
+  GitHub is a code hosting platform for version control and collaboration.
+  It lets you and others work together on projects from anywhere.
+tags: [hydejack]
 ---
 
-이 곳은 본문입니다.
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
