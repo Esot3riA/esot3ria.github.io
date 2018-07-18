@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 지킬(jekyll) 로 포스팅하기
+title: Jekyll 기반 무언가?
 description: >
-  This is a normal paragraph following a header.
-  GitHub is a code hosting platform for version control and collaboration.
-  It lets you and others work together on projects from anywhere.
+  This is 한글
 tags: [hydejack]
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+한글이 지원되나요?
