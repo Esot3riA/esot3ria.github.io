@@ -2,7 +2,7 @@
 layout: post
 title: title example
 description: >
-  이것은 샘플 포스트입니다. Github Pages는 처음이라서요.
+  this is sample post.
 tags: [Kaggle]
 ---
 
@@ -11,3 +11,5 @@ tags: [Kaggle]
 ##그런가요?##
 
 **그런가 본데요?**
+
+아닌 것 같네요.. 메타데이터에 한글이 있으면 인식을 못 하네요.
