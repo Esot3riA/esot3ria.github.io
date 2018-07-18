@@ -1,12 +1,13 @@
 ---
 layout: post
-title: Example content temp
+title: 안녕, 세계!
+category: Kaggle
 description: >
-  This is a normal paragraph following a header.
-  GitHub is a code hosting platform for version control and collaboration.
-  It lets you and others work together on projects from anywhere.
-tags: [hydejack]
+  이건 설명입니다.
+  설명이고요.
+  설명이네요.
+tags: [kaggle]
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+이 곳은 본문입니다.
 
