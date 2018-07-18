@@ -8,6 +8,8 @@ description: >
 tags: [hydejack]
 ---
 
+한글이 지원되나요?
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
