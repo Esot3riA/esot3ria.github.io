@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 한글이 왜 깨질까
+title: no hangul
 description: >
-  음...
+  no...
 tags: [hydejack]
 ---
 
-음... Vim이 좀 이상한데.
+no hangul?
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
