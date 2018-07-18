@@ -1,12 +1,12 @@
 ---
 layout: post
-title: hello, world!
+title: 한글이 왜 깨질까
 description: >
-  이것은 샘플 포스트입니다. Github Pages는 처음이라서요. 참 간편하네요.
+  음...
 tags: [hydejack]
 ---
 
-한글이 잘 표시되나요?
+음... Vim이 좀 이상한데.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -18,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This is a normal paragraph folloing a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
