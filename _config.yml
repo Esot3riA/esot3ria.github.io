@@ -1,4 +1,4 @@
-# Config
+﻿# Config
 # ========================================================================================
 
 # IMPORTANT: Set the URL of your site.
@@ -22,7 +22,7 @@ baseurl:               ''
 lang:                  kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Esot3riA's blog
+title:                 Esot3riA, the Kaggler
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -33,7 +33,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  여기는 Esot3riA의 데이터 과학 블로그입니다.
+  Esot3riA의 캐글 챌린지 블로그
 
 # A list of keywords for your blog
 keywords:              [Kaggle]
@@ -50,7 +50,7 @@ author:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2018 Esot3riA All rights reserved.
+copyright:            '`Esot3riA` &copy; 2018. All rights reserved.'
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
