@@ -46,6 +46,7 @@ logo:                  /assets/icons/icon.png
 author:
   name:                <Esot3riA>
   email:               <esot3ria@gmail.com>
+  picture:             /assets/icons/icon.png
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -181,7 +182,7 @@ include:
 # ========================================================================================
 
 plugins:
-  # - jekyll-avatar
+  - jekyll-avatar
   # - jekyll-default-layout
   - jekyll-feed
   # - jekyll-gist
