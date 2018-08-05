@@ -1,11 +1,9 @@
 ﻿---
 layout: post
-title: Coursera Machine Learning 정리
+title: Coursera Machine Learning Week 1 정리
 description: >
-  This is a normal paragraph following a header.
-  GitHub is a code hosting platform for version control and collaboration.
-  It lets you and others work together on projects from anywhere.
-tags: [Machine Learning, Coursera]
+  This post introduces Hydejack's now background image, color palette and logo.
+tags: [Coursera]
 ---
 
 ## 0. 들어가기 전에
