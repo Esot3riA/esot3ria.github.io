@@ -1,12 +1,10 @@
 ﻿---
 layout: post
-title: Hydejack's New Design
+title: Coursera Machine Learning 정리 (한글) Week 1
 description: >
-  This post introduces Hydejack's now background image, color palette and logo.
-image: /assets/img/caleb-george.jpg
-hide_image: true
-tags: [hydejack]
-redirect_from: /2017/11/17/whats-new-in-v7/
+  Coursera에서 제공하는 Andrew Ng 교수님의 Machine Learning week 강의 요점정리입니다.
+  한국어로 번역하였습니다.
+tags: [MachineLearning]
 ---
 
 ## 0. 들어가기 전에
@@ -103,3 +101,4 @@ $$ J(\theta_0, \theta_1) =
 결과적으로 $$ \theta_1 = 1 $$일 때 비용 함수가 최소가 되어 $$ \theta_1 = 1 $$ 이 전역 최솟값이 된다.
 
 ### 2.4 Cost Function - Intuition II
+
