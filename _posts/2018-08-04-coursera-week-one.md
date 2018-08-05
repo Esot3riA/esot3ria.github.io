@@ -1,9 +1,12 @@
 ﻿---
 layout: post
-title: Coursera Machine Learning Week 1 정리
+title: Hydejack's New Design
 description: >
   This post introduces Hydejack's now background image, color palette and logo.
-tags: [Coursera]
+image: /assets/img/caleb-george.jpg
+hide_image: true
+tags: [hydejack]
+redirect_from: /2017/11/17/whats-new-in-v7/
 ---
 
 ## 0. 들어가기 전에
