@@ -33,7 +33,7 @@ tagline:               >
   Esot3riA의 종합 발자취
 
 # A list of keywords for your blog.
-keywords:              []
+keywords:              [programming, machine learning, otaku]
 
 # Used by jekyll-seo-tag.
 logo:                  /assets/img/profile.jpg
@@ -48,8 +48,7 @@ author:
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2018. All rights reserved.
-  Open `_config.yml` to edit this text.
+  © 2018 by Esot3riA. All Page content is property of Esot3riA.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -72,12 +71,12 @@ paginate_path:         /page-:num/
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/background.jpg
-accent_color:          rgb(60,146,154)
+accent_color:          rgb(210, 0, 0)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25,55,71)
+theme_color:           rgb(210, 0, 0)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -116,11 +115,11 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      UA-130369307-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <disqus_shortname>
+disqus:                esot3ria
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
