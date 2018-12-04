@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 구름IDE 에디터, 터미널 배경화면 변경하는 방법
-image: /assets/img/change-goormide-theme-0.png
+image: /assets/img/programming/181202/1.png
 comments: true
 ---
 
@@ -14,7 +14,7 @@ Visual Studio같은 IDE의 경우 테마나 배경화면을 바꾸는 플러그�
 
 구름IDE를 커스터마이징 하려면 다음과 같이 하면 된다.
 
-![change-goormide-theme-1](/assets/img/change-goormide-theme-1.png)
+![change-goormide-theme-1](/assets/img/programming/181202/2.png)
 
 구름IDE 컨테이너를 실행하고 작업 표시줄의 `구름IDE -> 테마 변경 -> 커스텀 테마 설정`을 선택한다.
 여기에 입력된 코드는 컨테이너 화면 스타일에 그대로 반영되기 때문에
@@ -24,22 +24,22 @@ Visual Studio같은 IDE의 경우 테마나 배경화면을 바꾸는 플러그�
 ```css
 /* CSS rule for editor background */
 .editor-background {
-	opacity: 0.2; /* 투명도 취향에 맞게 조절 */
-  	background-image: url("https://images8.alphacoders.com/900/thumb-1920-900009.jpg"); /* 원하는 이미지 url 입력 */
-	background-repeat: space;
-	background-position: right;
-	background-size: cover;
+  opacity: 0.2; /* 투명도 취향에 맞게 조절 */
+  background-image: url("https://images8.alphacoders.com/900/thumb-1920-900009.jpg"); /* 원하는 이미지 url 입력 */
+  background-repeat: space;
+  background-position: right;
+  background-size: cover;
 }
 ```
 
-![change-goormide-theme-2](/assets/img/change-goormide-theme-2.jpg)
+![change-goormide-theme-2](/assets/img/programming/181202/3.jpg)
 
 이렇게 넣어 주면 변경된 배경화면으로 피피미와 포푸코와 함께 신나게 코딩할 수 있다.
 가끔씩 이미지 파일을 제대로 로드할 수 없는 경우가 생기는데,
 배경화면이 제대로 로드되지 않는다면 개발자 도구의 콘솔 창을 확인해 보면
 파일을 가져올 수 없다는 메시지가 출력되어 있을 것이다.
 
-![change-goormide-theme-3](/assets/img/change-goormide-theme-3.png)
+![change-goormide-theme-3](/assets/img/programming/181202/4.png)
 
 이 경우 해당 사이트의 [CORS](https://developer.mozilla.org/ko/docs/Web/HTTP/Access_control_CORS)
 정책에 의해 리소스 접근이 막혀 있을 수 있기 때문에,
@@ -52,7 +52,7 @@ Visual Studio같은 IDE의 경우 테마나 배경화면을 바꾸는 플러그�
 이와 마찬가지로 터미널 엘리먼트의 `class`를 찾아서 터미널의 배경화면을 마음대로 변경해 줄 수 있다.
 터미널 엘리먼트인 `xterm-viewport`의 배경화면을 다음과 같이 변경하면 배경화면에 이미지를 넣을 수 있다.
 
-```js
+```css
 .xterm-viewport  {
   opacity: 0.3;
   background-image: url("https://i.pinimg.com/originals/92/bc/36/92bc3606367c9d7cfcfad3cb4fe561e6.gif"); /* 원하는 이미지 url 입력 */
@@ -62,7 +62,7 @@ Visual Studio같은 IDE의 경우 테마나 배경화면을 바꾸는 플러그�
 }
 ```
 
-![change-goormide-theme-4](/assets/img/change-goormide-theme-4.png)
+![change-goormide-theme-4](/assets/img/programming/181202/5.png)
 
 당연히 gif도 문제없이 동작한다.
 역동적으로 움직이는 포푸코를 보고 있으면 나도 모르게 역동적으로 코드를 짜게 되어 좋다.
