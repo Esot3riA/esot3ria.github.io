@@ -9,7 +9,7 @@ title: Subculture
 slug: subculture
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-description: 씹-뜨억 포스트 주의.
+# description: 
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
