@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coursera Machine Learning 정리 (한글) - Week 1
-image: /assets/img/programming/181202/1.png
+image: /assets/img/machinelearning/181208/ml.png
 comments: true
 ---
 
