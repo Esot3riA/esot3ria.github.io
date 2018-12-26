@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 새 블로그를 개설했다.
+title: 새 블로그를 개설했다
 ---
 
 원래 있던 네이버 [덕질 블로그](http://eguniblog.zz.am/)와 [코딩 블로그](http://egunicode.zz.am/)를 놔두고

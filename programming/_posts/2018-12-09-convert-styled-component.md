@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 토이 프로젝트의 스타일링을 Sass에서 Styled Component로 변경했다.
+title: 토이 프로젝트의 스타일링을 Sass에서 Styled Component로 변경했다
 comments: true
 ---
 
