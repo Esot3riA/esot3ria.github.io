@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 오덕이 1년 간 JLPT 공부했던 후기
-image: /assets/img/thinking/181216/jlpt-study-review-0.jpg
+image: /assets/img/lifelog/181216/jlpt-study-review-0.jpg
 ---
 
 대략 10년 전, 러키스타가 방영되고 동방풍신록이 신작이던 시절 나는 덕질의 세계에 입문했었다.
@@ -24,7 +24,7 @@ SW개발병으로 자대 배치를 받은 후 지금까지 약 1년 2개월이 �
 아무것도 할 게 없으니 자연스럽게 독서실만 다니게 된 것도 있고, 전역하면 번역기를 꼭 떼고 싶었던 것도 있어서.
 대학교 때도 이렇게 열심히 공부 안 했었는데 참 덕질은 위대하다 싶었다.
 
-![jlpt-study-review-1](/assets/img/thinking/181216/jlpt-study-review-1.jpg)
+![jlpt-study-review-1](/assets/img/lifelog/181216/jlpt-study-review-1.jpg)
 
 처음 공부를 시작했을 때의 독해 실력은 거의 바닥에 가까워서,
 바로 N1으로 들어가면 멘탈이 깨질 것 같아 N2부터 시작했다.
@@ -32,7 +32,7 @@ SW개발병으로 자대 배치를 받은 후 지금까지 약 1년 2개월이 �
 원래 다락원 책 하나만 두 번 돌리려고 했는데, 아무래도 했던 거 또 하면 재미가 없을 것 같아서(애니도 웬만하면 재탕 못 하기 때문에;)
 두 권을 한 번씩 봤다.
 
-![jlpt-study-review-2](/assets/img/thinking/181216/jlpt-study-review-2.jpg)
+![jlpt-study-review-2](/assets/img/lifelog/181216/jlpt-study-review-2.jpg)
 
 JLPT N2 시험 때까지 이 책 두 권에서 나오는 모든 한자를 외우는 것을 목표로 했다.
 책을 직접 보면 알겠지만 한자 양이 정말 장난 아니다. 
@@ -42,7 +42,7 @@ JLPT N2 시험 때까지 이 책 두 권에서 나오는 모든 한자를 외우
 한자 공부 방법은 별 거 없이 책에서 모르는 한자가 나오면 그냥 주구장창 쓰면서 외웠는데
 시간이 굉장히 오래 걸리긴 했지만 결국 대부분 외워지긴 외워지더라.
 
-![jlpt-study-review-3](/assets/img/thinking/181216/jlpt-study-review-3.jpg)
+![jlpt-study-review-3](/assets/img/lifelog/181216/jlpt-study-review-3.jpg)
 
 그렇게 약 8개월간 N2 공부를 했고 올해 7월 시험에 응시하여 합격했다.
 독해 부분이 아쉽긴 하지만 그래도 어휘와 청해는 만점이었다 ^~^!
@@ -55,6 +55,6 @@ N2 고득점도 좋았지만 더욱 좋았던 것은 이렇게 각 잡고 한자
 몇몇 어려운 한자를 제외하고는 한자도 웬만큼 머리에 들어와서 무리 없이 플레이 할 수 있는 수준까지는 온 것 같다.
 드디어 미연시 플레이 할 때 번역기를 완전히 뗄 수 있게 되어 기쁘다.
 
-![jlpt-study-review-4](/assets/img/thinking/181216/jlpt-study-review-4.jpeg)
+![jlpt-study-review-4](/assets/img/lifelog/181216/jlpt-study-review-4.jpeg)
 
 결론은 무라사메쟝 짱 이쁘다는 것이다.
