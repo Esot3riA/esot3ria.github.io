@@ -2,6 +2,7 @@
 layout: post
 title: 섀도어 230레벨 달성
 image: /assets/img/subculture/190430/maple-level-230.jpg
+comments: true
 ---
 
 섀도어로 구두1과 동굴 아랫길에서 열심히 사냥하여, 230레벨을 찍고 모라스에 입성했다.
