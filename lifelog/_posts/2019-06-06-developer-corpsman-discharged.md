@@ -1,7 +1,6 @@
 ---
 layout : post
 title : 전역 후 쓰는 SW개발병 지원 가이드
-comments: true
 image: /assets/img/lifelog/190606/developer-corpsman-discharged.jpg
 ---
 

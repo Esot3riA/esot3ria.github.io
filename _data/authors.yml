@@ -27,10 +27,10 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    # twitter:         jekyllrb
+    twitter:         esot3ria
     github:          esot3ria
     # download:        <url>
-    email:           esot3ria@gmail.com
+    # email:           esot3ria@gmail.com
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>

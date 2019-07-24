@@ -1,1 +1,10 @@
 // You can add CSS rules here that will be inlucded in Hydejack's CSS file
+article > p {
+  margin-top: 2rem;
+}
+article img {
+  margin: 0 auto;
+}
+.content img, .img, .content video, .video {
+  max-height: 700px;
+}
