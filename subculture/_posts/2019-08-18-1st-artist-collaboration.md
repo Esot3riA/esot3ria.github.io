@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1st Artist Collaboration에 다녀왔다
-image: /assets/img/subculture/190818/0.jpg
+image: /assets/img/subculture/190818/0.jpeg
 comments: true
 ---
 
