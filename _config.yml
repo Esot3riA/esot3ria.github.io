@@ -34,19 +34,19 @@ tagline:               >
 keywords:              [programming, machine learning, doujin music]
 
 # Used by jekyll-seo-tag.
-logo:                  /assets/img/hachiroku.jpg
+logo:                  /assets/img/CHS-0035.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Esot3riA
+  email:               esot3ria@gmail.com
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             Esot3riA
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2018 by Esot3riA. All Page content is property of Esot3riA.
+  © 2019 by Esot3riA. All Page content is property of Esot3riA.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.

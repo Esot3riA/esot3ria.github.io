@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 헤로쿠의 Free dyno 잠자는 것 막는 방법(Heroku prevent free dyno from sleeping)
+title: 헤로쿠의 Free dyno가 잠자는 것을 막아 보자
 image: /assets/img/programming/190916/0.png
 comments: true
 ---

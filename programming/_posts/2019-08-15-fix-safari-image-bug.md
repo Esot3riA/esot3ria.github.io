@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React 앱에서 이미지가 계속 로드되는 오류 (React Image flickering in every state change)
+title: React 앱에서 이미지가 계속 로드되는 오류 해결
 comments: true
 ---
 
