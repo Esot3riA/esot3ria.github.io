@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 학교 중앙도서관
-image: /assets/img/lifelog/191006/1.jpg
+image: /assets/img/lifelog/191006/1.JPG
 ---
 
 강의 끝나고 자취방 가는 길에 무심코 폰으로 찍어 본 중도.
