@@ -1,87 +1,87 @@
 ---
 layout: post
 title: 가평에 놀러 갔다 왔다
-image: /assets/img/lifelog/200130/IMG_1018.jpg
+image: /assets/img/lifelog/200103/IMG_1018.jpg
 ---
 
 항상 그렇듯 방학을 맞아 대전을 떠나 어딘가로 놀러 갔다. 이번 겨울 행선지는 가평.
 예전 여행 때 기간이 조금 짧았다는 의견이 있어서, 처음으로 2박 3일로 다녀왔다(남정네들 8명이서 2박3일이라니 구아악).
 
-![1](/assets/img/lifelog/200130/IMG_0998.jpg)
+![1](/assets/img/lifelog/200103/IMG_0998.jpg)
 
 긴 주행 시간 때문에 피곤한 친구 둘.
 가평은 서울 근교로 짧게 다녀올 수 있어서 인기가 있는 모양이던데, 대전에서 출발하니 차로 가도 시간이 꽤 걸렸다. 대충 3시간쯤 걸렸던 것 같다.
 
-![1](/assets/img/lifelog/200130/IMG_1001.jpg)
+![1](/assets/img/lifelog/200103/IMG_1001.jpg)
 
-![1](/assets/img/lifelog/200130/2.jpg)
+![1](/assets/img/lifelog/200103/2.jpg)
 
 펜션에 체크인하러 갔더니 무려 애옹이가 있었다(!). 다섯 마리쯤 있었는데 우릴 보자마자 앵겨왔다.
 2박 3일동안 계속 만지작거리다 왔는데 이쯤되면 펜션 옵션에 고양이가 포함된 듯 하다;;
 
-![1](/assets/img/lifelog/200130/1.jpeg)
+![1](/assets/img/lifelog/200103/1.jpeg)
 
 방 안으로 들이면 털 엄청 날린대서 쫓아내는 모습. 눈이 애처롭다.
 
-![1](/assets/img/lifelog/200130/IMG_1014.JPG)
+![1](/assets/img/lifelog/200103/IMG_1014.JPG)
 
 창문으로도 들어오길래 안아 봤다. 꿈쩍도 안 하더라. 완전 개냥이였음.
 
-![1](/assets/img/lifelog/200130/IMG_1005.jpg)
+![1](/assets/img/lifelog/200103/IMG_1005.jpg)
 
 암튼 늦은 시간에 도착했기 때문에 바로 고기 꾸워먹고
 
-![1](/assets/img/lifelog/200130/IMG_1008.jpg)
+![1](/assets/img/lifelog/200103/IMG_1008.jpg)
 
 바로 잤다가 다음 날에 아침을 먹었다(?)
 
-![1](/assets/img/lifelog/200130/IMG_1011.jpg)
+![1](/assets/img/lifelog/200103/IMG_1011.jpg)
 
 스트링 치즈를 전자레인지에 돌렸더니 키친타올에 늘러붙었다. 그와중에 친구쉑 존못ㅋㅋㅋ엌ㅋㅋ
 
-![1](/assets/img/lifelog/200130/IMG_1013.jpg)
+![1](/assets/img/lifelog/200103/IMG_1013.jpg)
 
 원래는 아침 먹고 바로 남이섬 가야 하는데, 다들 천성이 게을러서 퍼질러져서 아무것도 안 했다. 이럴 거면 도대체 가평까지 왜 온거야;
 (사실 나도 피곤해서 잤다)
 
-![1](/assets/img/lifelog/200130/IMG_1017.jpg)
+![1](/assets/img/lifelog/200103/IMG_1017.jpg)
 
-![1](/assets/img/lifelog/200130/IMG_1018.jpg)
+![1](/assets/img/lifelog/200103/IMG_1018.jpg)
 
-![1](/assets/img/lifelog/200130/IMG_1048.jpg)
+![1](/assets/img/lifelog/200103/IMG_1048.jpg)
 
 결국 남이섬 가자는 계획은 쫑나고, 저녁 다 되어서야 아 이래서는 아무데도 못가고 끝나겠구나 싶어 숙소 근처의 쁘띠프랑스로 향했다.
 마침 쁘띠프랑스에서 빛축제 개장 기간이어서 저녁까지 개장했는데, 불빛이 꽤 볼 만 했다.
 
-![1](/assets/img/lifelog/200130/IMG_1019.jpg)
+![1](/assets/img/lifelog/200103/IMG_1019.jpg)
 
 ㅇㅇ 맞는듯..
 
-![1](/assets/img/lifelog/200130/IMG_1047.jpg)
+![1](/assets/img/lifelog/200103/IMG_1047.jpg)
 
-![1](/assets/img/lifelog/200130/IMG_1036.jpg)
+![1](/assets/img/lifelog/200103/IMG_1036.jpg)
 
 쁘띠프랑스 끝쪽에 뜬금없이 등산로가 있어서 올라가 봄.
 
-![1](/assets/img/lifelog/200130/IMG_1049.jpg)
+![1](/assets/img/lifelog/200103/IMG_1049.jpg)
 
 딱 1시간쯤 둘러보고 바로 숙소 돌아와서 또 고기 꾸워먹었다. 이번엔 소고기...;;
 
-![1](/assets/img/lifelog/200130/IMG_1050.jpg)
+![1](/assets/img/lifelog/200103/IMG_1050.jpg)
 
 디저트로 마시멜로도 먹어주고;;
 
-![1](/assets/img/lifelog/200130/IMG_1054.jpg)
+![1](/assets/img/lifelog/200103/IMG_1054.jpg)
 
 일광욕 하는 애옹이
 
-![1](/assets/img/lifelog/200130/IMG_1055.jpg)
+![1](/assets/img/lifelog/200103/IMG_1055.jpg)
 
-![1](/assets/img/lifelog/200130/IMG_1078.JPG)
+![1](/assets/img/lifelog/200103/IMG_1078.JPG)
 
 마지막 날에 숙소 체크아웃 겸 가평 탑랜드에서 번지점프를 했다(친구만). 개인적으로는 왜 돈주고 무서우려고 하는지 이해를 못 하겠다.ㅎ
 
-![1](/assets/img/lifelog/200130/IMG_1086.jpg)
+![1](/assets/img/lifelog/200103/IMG_1086.jpg)
 
 여행끝
 
