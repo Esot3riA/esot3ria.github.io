@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020년 가을 메이지대 교환학생 준비 일지 - 1
+title: 2020년 가을 메이지대 교환학생 준비 일지
 image: /assets/img/lifelog/200318/1.png
 ---
 

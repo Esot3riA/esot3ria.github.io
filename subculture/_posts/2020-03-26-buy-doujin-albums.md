@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 최근의 동인앨범 구매 기록 (Refactoring Travel, Nyarons, works.10)
+title: 2020 상반기 동인앨범 구매 기록
 image: /assets/img/subculture/200326/2.jpg
 comments: true
 ---
