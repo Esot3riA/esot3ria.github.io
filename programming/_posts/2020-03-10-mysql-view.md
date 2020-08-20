@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \[MySQL\] 뷰테이블 관련 에러, ERROR 1349 해결
+title: MySQL ERROR 1349 해결 (뷰테이블 관련 에러)
 image: /assets/img/programming/200310/1.png
 comments: true
 ---
