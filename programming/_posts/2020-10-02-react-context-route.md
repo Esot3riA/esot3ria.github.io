@@ -1,6 +1,7 @@
 ---
 layout: post
 title: (React+Typescript) React-Router에서 Context Provider 사용하기
+image: /assets/img/programming/201002/0.jpg
 comments: true
 ---
 
