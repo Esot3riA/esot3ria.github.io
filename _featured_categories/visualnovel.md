@@ -3,15 +3,15 @@
 layout: list
 
 # The title of the tag's page.
-title: Machine Learning
+title: Visual Novel
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: machinelearning
+slug: visualnovel
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 # description: 
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
-order: 3
+order: 4
 ---

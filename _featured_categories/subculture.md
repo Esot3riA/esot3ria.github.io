@@ -13,5 +13,5 @@ slug: subculture
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
-order: 4
+order: 3
 ---

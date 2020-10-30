@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9-nine- 1편과 2편을 클리어했다
-image: /assets/img/subculture/191006/1.jpg
+image: /assets/img/visualnovel/191006/1.jpg
 comments: true
 ---
 
@@ -15,9 +15,9 @@ comments: true
 
 ## 공략 후기
 
-![1](/assets/img/subculture/191006/2.jpg)
+![1](/assets/img/visualnovel/191006/2.jpg)
 
-![2](/assets/img/subculture/191006/3.jpg)
+![2](/assets/img/visualnovel/191006/3.jpg)
 
 * **오랜만에 정말 재밌게 잡았던 작품**
 * 소라가 처음부터 끝까지 다 해먹는 게임. 이 게임의 알파이자 오메가. 개그 요소는 소라가 다 책임진다. 어떤 게임에서도 볼 수 없는 개그 충만한 여동생 포지션 히로인
