@@ -2,7 +2,6 @@
 layout: post
 title: 믿고 듣는 동인 음악 레이블 TOP 10
 image: /assets/img/subculture/190127/doujin_label_logo.jpg
-comments: true
 ---
 
 일본 동인 음악 시장에서 **특출나게 좋은 앨범을 꾸준하게 발매하는 레이블**을 순서 없이 10개 정리해 보았다.

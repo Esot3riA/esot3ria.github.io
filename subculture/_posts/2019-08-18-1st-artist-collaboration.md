@@ -2,7 +2,6 @@
 layout: post
 title: 1st Artist Collaboration에 다녀왔다
 image: /assets/img/subculture/190818/12.jpeg
-comments: true
 ---
 
 오늘 t+pazolite, Hommarju, ginkiha씨의 내한 사인회인 제 1회 아티스트 콜라보레이션에 다녀왔다.

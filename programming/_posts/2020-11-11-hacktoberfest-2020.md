@@ -2,7 +2,6 @@
 layout: post
 title: Hacktoberfest 2020에 참가했다
 image: /assets/img/programming/201111/0.jpg
-comments: true
 ---
 
 매년 10월에 열리는 핵토버페스트 2020에 참여했다. 10월 1일부터 31일까지 GitHub에 유효한 PR을 4개 이상 남기면 티셔츠를 보내 주는 행사였다.

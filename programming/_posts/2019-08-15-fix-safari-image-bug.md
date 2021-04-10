@@ -1,7 +1,6 @@
 ---
 layout: post
 title: React 앱에서 이미지가 계속 로드되는 오류 해결
-comments: true
 ---
 
 오늘 마주한 오류는 다음 짤로 요약할 수 있겠다.

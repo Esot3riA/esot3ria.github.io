@@ -2,7 +2,6 @@
 layout: post
 title: (MySQL) ERROR 1349 해결 (뷰테이블 관련 에러)
 image: /assets/img/programming/200310/1.png
-comments: true
 ---
 
 MySQL의 1349 에러는 뷰 테이블을 만들 때 서브쿼리 사용을 막는 에러이다.

@@ -2,7 +2,6 @@
 layout: post
 title: (React+Typescript) React-Router에서 Context Provider 사용하기
 image: /assets/img/programming/201002/0.jpg
-comments: true
 ---
 
 오늘 해결한 이슈는 react-router와 Context API를 적절히 섞는 방법에 관한 문제였다.

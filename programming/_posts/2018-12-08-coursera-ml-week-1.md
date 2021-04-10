@@ -2,7 +2,6 @@
 layout: post
 title: Coursera Machine Learning 정리 (한글) - Week 1
 image: /assets/img/programming/181208/ml.png
-comments: true
 ---
 
 * 이 포스트는 Coursera에서 제공하는 Andrew Ng 교수님의 Machine Learning week 1 강의

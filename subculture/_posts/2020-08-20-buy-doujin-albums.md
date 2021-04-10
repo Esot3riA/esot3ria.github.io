@@ -2,7 +2,6 @@
 layout: post
 title: 2020 중반기 동인앨범 구매 기록
 image: /assets/img/subculture/200820/0.jpg
-comments: true
 ---
 
 올해 M3와 나츠코미가 줄줄이 취소된 탓에 동인음악계에는 때아닌 가뭄이 들었다.

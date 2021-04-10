@@ -2,7 +2,6 @@
 layout: post
 title: 섀도어 250레벨 달성
 image: /assets/img/subculture/210120/1.jpg
-comments: true
 ---
 
 방학을 맞아 메이플에 복귀해 섀도어로 250렙을 찍었다. 만렙의자를 드디어 펼칠 수 있게 되었지만 만렙 300 확장 이후에 찍어서 뀨만렙 찍은 셈이 됨.

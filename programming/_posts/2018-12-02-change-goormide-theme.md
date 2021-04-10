@@ -2,7 +2,6 @@
 layout: post
 title: 구름IDE 에디터, 터미널 배경화면 변경하는 방법
 image: /assets/img/programming/181202/1.png
-comments: true
 ---
 
 [구름IDE](https://ide.goorm.io)에도 다른 IDE와 비슷하게 레이아웃의 테마나 배경화면을 변경하는 방법이 존재한다.

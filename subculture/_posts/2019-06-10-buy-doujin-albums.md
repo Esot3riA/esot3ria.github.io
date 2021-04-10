@@ -2,7 +2,6 @@
 layout: post
 title: 스루가야 온라인샵에서 앨범을 샀다
 image: /assets/img/subculture/190610/album_box.jpg
-comments: true
 ---
 
 일본에 [스루가야](https://www.suruga-ya.com/en)라는 중고 물품 판매 사이트가 있다.

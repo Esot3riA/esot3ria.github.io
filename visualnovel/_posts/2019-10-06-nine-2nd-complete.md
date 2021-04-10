@@ -2,7 +2,6 @@
 layout: post
 title: 9-nine- 1편과 2편을 클리어했다
 image: /assets/img/visualnovel/191006/1.jpg
-comments: true
 ---
 
 파렛트의 신작인 9-nine- 1편과 2편을 클리어했다. 4부작 분할판매 작품으로 현재 3편까지 나와 있다.

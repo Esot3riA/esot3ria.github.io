@@ -2,7 +2,6 @@
 layout: post
 title: 헤로쿠의 Free dyno가 잠자는 것을 막아 보자
 image: /assets/img/programming/190916/0.png
-comments: true
 ---
 
 [Heroku](https://www.heroku.com)는 AWS와 비슷한 클라우드 서버 제공 업체로 무료 인스턴스인 Free Dyno를 기본 제공한다.

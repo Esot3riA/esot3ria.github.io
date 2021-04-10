@@ -2,7 +2,6 @@
 layout: post
 title: 리들 조커(RIDDLE JOKER)를 클리어했다
 image: /assets/img/visualnovel/201030/0.jpg
-comments: true
 ---
 
 유즈소프트의 2018년 타이틀인 리들 조커를 클리어했다. 군 입대 때문에 잃어버렸던 기간(?)에 나와서 이제서야 클리어.

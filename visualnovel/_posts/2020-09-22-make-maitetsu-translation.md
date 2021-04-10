@@ -2,7 +2,6 @@
 layout: post
 title: 마이테츠 한글패치 팀에 참여했다
 image: /assets/img/visualnovel/200922/0-0.jpg
-comments: true
 ---
 
 어쩌다 보니 기회가 있어서 마이테츠 한글패치 팀에 참여하게 되었다.

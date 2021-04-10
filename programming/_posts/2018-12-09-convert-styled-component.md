@@ -1,7 +1,6 @@
 ---
 layout: post
 title: 토이 프로젝트의 스타일링을 Sass에서 Styled Component로 변경했다
-comments: true
 ---
 
 Sass로 스타일링을 하는 개인 React 프로젝트가 있었는데 오늘 모든 스타일링을 Styled Component 기반으로 변경했다.

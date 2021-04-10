@@ -2,7 +2,6 @@
 layout: post
 title: 페르소나 5 스크램블을 클리어했다
 image: /assets/img/subculture/201005/0.jpg
-comments: true
 ---
 
 올해 6월에 한국 정발된 페르소나 5 스크램블(P5S)을 클리어했다.

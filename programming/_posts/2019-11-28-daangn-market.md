@@ -2,7 +2,6 @@
 layout: post
 title: 2019 당근마켓 웹 개발 챌린지 리뷰
 image: /assets/img/programming/191128/0.jpg
-comments: true
 ---
 
 지난 주에 [프로그래머스](https://programmers.co.kr)에서 진행한 당근마켓 웹 개발 챌린지에 도전해 보았다.

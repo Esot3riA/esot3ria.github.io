@@ -2,7 +2,6 @@
 layout: post
 title: react-scroll-up 라이브러리에 PR을 했다
 image: /assets/img/programming/201007/0.jpg
-comments: true
 ---
 
 React에서 Scroll Up 버튼을 만들어 주는 react-scroll-up 라이브러리에 풀 리퀘스트를 요청했다.

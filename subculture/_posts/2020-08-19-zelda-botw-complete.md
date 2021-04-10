@@ -2,7 +2,6 @@
 layout: post
 title: 젤다의 전설 야생의 숨결을 클리어했다
 image: /assets/img/subculture/200819/0.jpg
-comments: true
 ---
 
 방학을 맞아 세기의 명작 게임인 젤다 야숨을 끝마쳤다.

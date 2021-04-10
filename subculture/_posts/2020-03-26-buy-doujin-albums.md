@@ -2,7 +2,6 @@
 layout: post
 title: 2020 상반기 동인앨범 구매 기록
 image: /assets/img/subculture/200326/2.jpg
-comments: true
 ---
 
 겨울 방학 동안에도 동인 앨범을 꾸준히 구매하고 있었다.
