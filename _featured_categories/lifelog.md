@@ -10,7 +10,7 @@ slug: lifelog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  본인 이야기만 늘어놓는 이기적인 카테고리라서 덧글 기능이 없습니다 :(
+  개발과 관련 없는 사는 이야기
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true

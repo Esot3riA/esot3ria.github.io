@@ -9,7 +9,8 @@ title: Visual Novel
 slug: visualnovel
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-# description: 
+description: > 
+  비주얼 노벨 플레이 기록
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true

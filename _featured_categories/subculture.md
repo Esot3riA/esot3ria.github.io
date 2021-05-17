@@ -9,7 +9,8 @@ title: Subculture
 slug: subculture
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-# description: 
+description: >
+  게임 그리고 동인음악 관련 기록
 
 # Setting `menu` will generate an entry in the sidebar for this tag.
 menu: true
