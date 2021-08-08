@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 마이테츠 한글패치 팀에 참여했다
+title: 마이테츠(まいてつ) 한글패치 팀에 참여했다
 image: /assets/img/visualnovel/200922/0-0.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 리들 조커(RIDDLE JOKER)를 클리어했다
+title: 리들 조커(RIDDLE JOKER) 클리어
 image: /assets/img/visualnovel/201030/0.jpg
 ---
 

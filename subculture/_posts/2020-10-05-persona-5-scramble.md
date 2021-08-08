@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 페르소나 5 스크램블을 클리어했다
+title: 페르소나 5 스크램블 클리어
 image: /assets/img/subculture/201005/0.jpg
 ---
 

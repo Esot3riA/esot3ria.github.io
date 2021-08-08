@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9-nine- 1편과 2편을 클리어했다
+title: 9-nine- 1, 2편 클리어
 image: /assets/img/visualnovel/191006/1.jpg
 ---
 

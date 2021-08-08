@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 젤다의 전설 야생의 숨결을 클리어했다
+title: 젤다의 전설 야생의 숨결 클리어
 image: /assets/img/subculture/200819/0.jpg
 ---
 
