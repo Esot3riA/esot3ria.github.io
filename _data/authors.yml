@@ -9,9 +9,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    백엔드 개발을 좋아하는 개발자입니다. 닉네임은 에소테리아라고 읽습니다.
-    현재 SW마에스트로 12기 과정을 이수하고 있습니다.
-    일상 생활 가능한 혼모노가 되기 위해 오늘도 노력하고 있습니다. ^~^
+    LINE에서 백엔드 개발자로 일하고 있습니다. 주로 동인 음악을 들으며 즐겁게 개발합니다.
+    닉네임은 에소테리아라고 읽습니다.
+    일상 생활 가능한 혼모노가 되기 위해 오늘도 노력하고 있습니다 ٩( ᐛ )و
 
   # This photo will be used in the about section.
   picture:
@@ -24,7 +24,7 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
-    # twitter:         esot3ria
+    twitter:         esot3ria
     github:          esot3ria
     # download:        <url>
     email:           esot3ria@gmail.com
